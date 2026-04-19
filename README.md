@@ -8,4 +8,6 @@ Data is stored in an SQLite database. Tables `appeals` and `case_details` are sc
 
 See data_dictionary.md for more details 
 
+Download database from releases [https://github.com/JonGerhardson/Massachusetts_records_request_determinations_2016-2026/releases](https://github.com/JonGerhardson/Massachusetts_records_request_determinations_2016-2026/releases)
+
 CC0 but if you publish something based on this dataset and don't give me credit you'll have 7 years bad luck 
